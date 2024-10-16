@@ -112,7 +112,7 @@ To solve the problem of finding the minimum number of operations to achieve a ta
 
 -   **Concept**: Code optimization involves improving the efficiency of your code, often by reducing the time and space complexity of the algorithm.
 -   **How It Applies**: Optimizing the solution for large values of `n` is critical to ensure it runs efficiently. You can reduce redundant calculations by using caching, memoization, or other optimizations.
--   **Resource**: How to Optimize Python Code
+-   **Resource**: How to Optimize Python Code (Google Search)
 
 ### 4. **Greedy Algorithms**:
 
