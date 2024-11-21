@@ -1,5 +1,5 @@
 # Rotate 2D Matrix
-To rotate an n×nn \times nn×n 2D matrix 90 degrees clockwise in-place, you can break the problem into two main steps:
+To rotate an n×n times n×n 2D matrix 90 degrees clockwise in-place, you can break the problem into two main steps:
 
 1.  **Transpose the matrix**:
     
